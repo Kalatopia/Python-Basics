@@ -1,0 +1,7 @@
+One — 1
+Two — 2
+Four — 4
+Eleven - 11
+Fyfty - 50
+Hundred - 100
+Thousand - 1000
